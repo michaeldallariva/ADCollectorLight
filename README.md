@@ -13,6 +13,7 @@ and collects general information about its health and status.
 
 How to use it:
 - Run from the C:\temp folder (Or change the variable to change the path)
+- Copy the chart.min.js file to the C:\temp folder to get the charts working. Otherwise the script will try to connect to the online version if not present.
 - Run it on a Windows Domain Controller
 
 License :
