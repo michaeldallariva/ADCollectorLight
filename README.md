@@ -17,4 +17,4 @@ How to use it:
 
 License :
 Feel free to use for any purpose, personal or commercial.
-If you use it within a commercial/consulting scope, it would be to receive a donation.
+If you use it within a commercial/consulting scope, it would be nice to receive a donation.
